@@ -42,7 +42,7 @@ dev = [
   "types-pyserial~=3.5",
 
   # Testing
-  "pytest~=8.3",
+  "pytest~=9.0",
   "pytest-cov~=6.0",
   "tox~=4.23",
   "tox-uv~=1.17",
