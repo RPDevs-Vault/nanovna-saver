@@ -66,7 +66,7 @@ NanoVNASaver-gui = 'NanoVNASaver.__main__:main'
 
 [build-system]
 requires = [
-  "setuptools>=64",
+  "setuptools>=78.1.1",
   "setuptools-scm>=8"
 ]
 # build-backend = 'setuptools.build_meta'
