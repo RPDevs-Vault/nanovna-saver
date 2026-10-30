@@ -38,7 +38,7 @@ dev = [
   "ruff~=0.9",
   "pre-commit~=4.1",
   "mypy~=1.14",
-  "pylint~=3.3",
+  "pylint>=3.3,<5.0",
   "types-pyserial~=3.5",
 
   # Testing
